@@ -4,10 +4,22 @@ const Work = () => {
 
     const works = [
         {
+          imgSrc: '/images/synapse10.png',
+          title: 'Social network app',
+          tags: ['Php', 'Html','Css','Javascript'],
+          projectLink: 'https://github.com/Chamrah/synapse-v2.git'
+        },
+        {
+          imgSrc: '/images/semlalia.png',
+          title: 'Resource management Humans for teachers of higher education',
+          tags: ['Laravel', 'Bootstrap','Html','Javascript'],
+          projectLink: ''
+        },
+        {
           imgSrc: '/images/headphone.png',
           title: 'Helmet bluetooth website',
           tags: ['Html', 'Css'],
-          projectLink: 'https://musify-5al0.onrender.com/'
+          projectLink: ''
         },
         
       ];

@@ -1,15 +1,24 @@
 
 // import PropTypes from "prop-types";
 import {MdExpandMore ,MdDownload} from "react-icons/md";
-const ButtonPrimary = () =>{
-    return (
-        <div>
-            <a href="" className="btn btn-primary">
-                Download CV <MdDownload />
-            </a>
-        </div>
-    )
-}
+// import { MdDownload } from "react-icons/md";
+
+const ButtonPrimary = () => {
+  return (
+    <div>
+      <a
+        href="/ziad-chamrah-CV.pdf"
+        download="ziad-chamrah-CV.pdf"
+        className="btn btn-primary flex items-center gap-2"
+      >
+        Download CV <MdDownload />
+      </a>
+    </div>
+  );
+};
+
+export default ButtonPrimary;
+
 
 const ButtonOutline = () => {
     return (
@@ -30,5 +39,5 @@ const ButtonOutline = () => {
 // }
 
 export{
-    ButtonPrimary , ButtonOutline
+    ButtonPrimary
 } ;

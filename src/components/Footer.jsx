@@ -9,10 +9,9 @@ const Footer = () => {
   ];
 
   const socials = [
-    { label: "GitHub", href: "https://www.github.com/codewithsadee-org" },
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/codewithsadee" },
-    { label: "Twitter X", href: "https://x.com/codewithsadee_" },
-    { label: "Instagram", href: "https://www.instagram.com/codewithsadee" },
+    { label: "GitHub", href: "https://github.com/Chamrah" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/ziad-chamrah-4b43b02a1/" },
+    { label: "Instagram", href: "https://www.instagram.com/nues.tro7?igsh=MXU4a2V2YjJweHNvZQ%3D%3D&utm_source=qr" },
   ];
 
   return (

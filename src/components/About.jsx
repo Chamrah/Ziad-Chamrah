@@ -14,7 +14,7 @@ const About = () => {
                <div className="flex items-center gap-28">
                
                 <span className="font-bold text-2xl">"I believe in clean code, continuous learning, and delivering solutions that make a difference."</span>
-                <img src="images/logo.svg" width={40} height={40} alt="Ziad Chamrah" />
+               
 
                </div>
                </div>

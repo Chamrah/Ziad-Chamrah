@@ -1,5 +1,5 @@
 import React from "react";
-import { ButtonPrimary , ButtonOutline} from "./Button";
+import { ButtonPrimary } from "./Button";
 
 const Hero = () => {
     return (
@@ -30,7 +30,7 @@ const Hero = () => {
                         
                         <div className="flex items-center gap-3">
                             <ButtonPrimary />
-                            <ButtonOutline />
+                            {/* <ButtonOutline /> */}
                         </div>
                     </div>
 
@@ -38,7 +38,7 @@ const Hero = () => {
                     <div className="hidden lg:block">
                         <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-skyyy-400/40 rounded-[60px] overflow-hidden">
                             <img 
-                                src="/images/photo.jpeg" 
+                                src="/images/photo2.jpeg" 
                                 width={656} 
                                 height={800} 
                                 alt="Ziad Chamrah" 
