@@ -7,8 +7,8 @@ const ButtonPrimary = () => {
   return (
     <div>
       <a
-        href="/ziad-chamrah-CV.pdf"
-        download="ziad-chamrah-CV.pdf"
+        href="/Cv-ziad-chamrah-2026.pdf"
+        download="Cv-ziad-chamrah-2026.pdf"
         className="btn btn-primary flex items-center gap-2"
       >
         Download CV <MdDownload />

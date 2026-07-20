@@ -4,16 +4,14 @@ const About = () => {
             <div className="container">
                <div className="bg-zinc-800/50 rounded-2xl p-7 md:p-5 text-zinc-300">
                <p className="mb-4 md:mb-8 ">
-                   I am Ziad Chamrah, a 20-year-old specializing in FullStack development. I have solid knowledge in web development.
-                   Passionate about new technologies and eager to learn, I am motivated to contribute to innovative projects while further 
-                   developing my skills in the field of software development.
-                   My goal is to become a leading FullStack developer, creating impactful and scalable solutions for modern challenges.
+                   I am Ziad Chamrah, a 21-year-old AI & Data Science and Full Stack developer.
+                   I focus on intelligent systems, data-driven applications, and modern web platforms that bring AI solutions to life.
+                   Passionate about emerging technologies, I aim to grow as a leading AI & Data Science developer creating impactful, scalable solutions.
                </p>
-              
 
                <div className="flex items-center gap-28">
                
-                <span className="font-bold text-2xl">"I believe in clean code, continuous learning, and delivering solutions that make a difference."</span>
+                <span className="font-bold text-2xl">"I believe in turning data into insight, continuous learning, and building intelligent solutions that make a difference."</span>
                
 
                </div>

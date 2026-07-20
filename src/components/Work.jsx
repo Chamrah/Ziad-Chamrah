@@ -4,6 +4,24 @@ const Work = () => {
 
     const works = [
         {
+          imgSrc: '/images/sicam-labeling.png',
+          title: 'SICAM — Plateforme d\'annotation de l\'artisanat marocain',
+          tags: ['React', 'Laravel', 'Annotation'],
+          projectLink: 'https://github.com/HatimRais/SICAM.git'
+        },
+        {
+          imgSrc: '/images/sicam-detection.png',
+          title: 'SICAM AI — Détection du style et type d\'artisanat marocain',
+          tags: ['Python', 'AI', 'Data Science'],
+          projectLink: 'https://github.com/HatimRais/SICAM.git'
+        },
+        {
+          imgSrc: '/images/deepsleep-ai.png',
+          title: 'DeepSleep AI — Analyse automatisée du sommeil par Deep Learning (EOG)',
+          tags: ['Deep Learning', 'Python', 'OpenVINO'],
+          projectLink: 'https://sommeileogia-production.up.railway.app/'
+        },
+        {
           imgSrc: '/images/synapse10.png',
           title: 'Social network app',
           tags: ['Php', 'Html','Css','Javascript'],

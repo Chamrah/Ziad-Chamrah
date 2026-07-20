@@ -20,13 +20,11 @@ const Hero = () => {
                             Available for work
                         </div>
                     </div>
-                        <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] lg:mb-10">
-                            {/*  */}
+                        <h2 className="headline-1 max-w-[22ch] sm:max-w-[28ch] lg:max-w-[24ch] lg:mb-10">
                             Hi! my name is Ziad <br />
-                            i'm a Fullstack developer
-                           
+                            i'm AI & DATA SCIENCE | FULL STACK DEVELOPER
                         </h2>
-                        <p className="headline-1-p">Building Scalable Modern Websites for the Future is my objectif</p>
+                        <p className="headline-1-p">Building intelligent, data-driven solutions for the future is my objective</p>
                         
                         <div className="flex items-center gap-3">
                             <ButtonPrimary />
